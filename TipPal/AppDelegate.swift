@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TipPal
 //
-//  Created by Angela Eang on 10/24/20.
+//  Created by Angela Eang
 //
 
 import UIKit
